@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![mariatecj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariatecj&theme=dracula)](https://github.com/mariatecj/github-readme-activity-graph)
 -->
 
 > [!NOTE]
